@@ -6,4 +6,4 @@
 - 🤖 Chatbot Student Assistant: web-scraping pipelines, NLP fine-tuning, and WCAG-compliant UI upgrades
 - 🌱 Deep-diving into Kubernetes & AI-powered DevOps automation
 - 💬 I enjoy mentoring on full-stack best practices, cloud infra, and trekking tips (Half Dome, anyone?)
-- 📫 Reach me: `sagarkp3 at gmail dot com`
+- 📫 Reach me: `sagarkp3@gmail.com`
